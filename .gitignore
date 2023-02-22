@@ -1,3 +1,7 @@
+#service-lane
+service-lane/output.txt
+service-lane/package-lock.json
+
 # Logs
 logs
 *.log
