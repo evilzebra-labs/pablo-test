@@ -2,6 +2,10 @@
 service-lane/output.txt
 service-lane/package-lock.json
 
+#designer-pdf-viewer
+designer-pdf-viewer/output.txt
+designer-pdf-viewer/package-lock.json
+
 # Logs
 logs
 *.log
